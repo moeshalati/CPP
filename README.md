@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moeshalati
-- 👀 I’m interested in Software engineering, AI, and moderen technology.
+- 👀 I’m interested in Software engineering.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moe.shalati@gmail.com
