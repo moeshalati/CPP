@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moeshalati
 - 👀 I’m interested in Software engineering.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moe.shalati@gmail.com
 
